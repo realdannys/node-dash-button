@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/hortinstein/node-dash-button",
   "dependencies": {
-    "pcap": "git+https://github.com/jonahharris/node_pcap.git",
+    "pcap": "git+https://github.com/jonahharris/node_pcap.git#with-v12-fixes",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
